@@ -9,3 +9,6 @@ Ou j'le vole ton fromage."
 "Tu montes sur tes grands chevaux ?"  
 Répondis le corbeau d'un air sage  
 Viens et j'fais de toi une passoire  
+Arrête de broyer du noir répondit le renard,
+si tu ne veux pas me respecter, c'est toi qui va y
+passer !
